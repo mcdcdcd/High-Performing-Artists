@@ -1,4 +1,6 @@
 Business Importance
+
+
 Music Streaming Services : Prioritize top-performing artists for promotions and playlist recommendations.
 Record Labels: Identify which artists are generating the most engagement and allocate marketing resources accordingly.
 Event Organizers: Book artists with high streaming times, indicating strong audience engagement.
