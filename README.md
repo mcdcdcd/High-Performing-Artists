@@ -16,8 +16,3 @@ Why This Matters?
 1. Calculate total playtime per artist by summing up the track durations in milliseconds.
 1. Compute the average total playtime across all artists.
 1. Filter artists whose total playtime is above the average to highlight high-performing artists.
-
-
-✅ Helps streaming services identify popular artists.
-✅ Aids record labels in allocating marketing budgets.
-✅ Assists data analysts in finding patterns in user engagement.
